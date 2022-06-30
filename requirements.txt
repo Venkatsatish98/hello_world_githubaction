@@ -1,6 +1,6 @@
 flask
 pandas
 gunicorn
-pyYAML
+PyYAML
 six
 dill
